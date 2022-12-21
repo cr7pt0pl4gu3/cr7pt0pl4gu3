@@ -1,5 +1,8 @@
 ### Red Team Operator / Penetration Tester at Tenendo 👋⚡
 
+#### | OSCP | OSCE3 | OSMR |
+
+
 <!--
 **cr7pt0pl4gu3/cr7pt0pl4gu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
