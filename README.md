@@ -1,5 +1,4 @@
 ### Red Team Operator / Penetration Tester at Tenendo 👋⚡
-
 #### | OSCP | OSCE3 | OSMR |
 
 
